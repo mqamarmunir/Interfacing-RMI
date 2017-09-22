@@ -1,0 +1,25 @@
+E:\New Folder\MachineInterfacing\MI_DataLayer\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing\MI_DataLayer\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacing\MI_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacing\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.dll
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.pdb
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
+D:\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.dll
+D:\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.pdb
+D:\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+D:\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.dll
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.pdb

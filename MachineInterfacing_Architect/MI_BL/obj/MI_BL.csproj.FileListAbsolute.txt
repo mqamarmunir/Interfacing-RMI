@@ -1,0 +1,49 @@
+D:\Trees Backup\Interface\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+D:\Trees Backup\Interface\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+D:\Trees Backup\Interface\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+D:\Trees Backup\Interface\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+D:\Trees Backup\Interface\MI\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Trees Backup\Interface\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+D:\Trees Backup\Interface\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
+G:\MI\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+G:\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
+G:\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+G:\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+G:\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+G:\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+G:\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+G:\Code\Machine Interfacing\RMI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+G:\Code\Machine Interfacing\RMI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+G:\Code\Machine Interfacing\RMI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+G:\Code\Machine Interfacing\RMI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+G:\Code\Machine Interfacing\RMI\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+G:\Code\Machine Interfacing\RMI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+G:\Code\Machine Interfacing\RMI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
+H:\Working\Trees Software\RMI\DeskTop\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+H:\Working\Trees Software\RMI\DeskTop\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+H:\Working\Trees Software\RMI\DeskTop\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+H:\Working\Trees Software\RMI\DeskTop\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+H:\Working\Trees Software\RMI\DeskTop\MI\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+H:\Working\Trees Software\RMI\DeskTop\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+H:\Working\Trees Software\RMI\DeskTop\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
+C:\RMI\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+C:\RMI\MI\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+C:\RMI\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+C:\RMI\MI\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+C:\RMI\MI\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+C:\RMI\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+C:\RMI\MI\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
+H:\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+H:\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+H:\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+H:\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+H:\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+H:\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+H:\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
+E:\MT\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+E:\MT\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+E:\MT\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+E:\MT\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+E:\MT\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+E:\MT\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+E:\MT\Working\Trees Software\RMI\DeskTop\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
