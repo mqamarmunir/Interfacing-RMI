@@ -1,0 +1,50 @@
+E:\New Folder\MachineInterfacing\MachineInterfacing\bin\Debug\MachineInterfacing.exe.config
+E:\New Folder\MachineInterfacing\MachineInterfacing\bin\Debug\MachineInterfacing.exe
+E:\New Folder\MachineInterfacing\MachineInterfacing\bin\Debug\MachineInterfacing.pdb
+E:\New Folder\MachineInterfacing\MachineInterfacing\bin\Debug\MI_BL.dll
+E:\New Folder\MachineInterfacing\MachineInterfacing\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing\MachineInterfacing\bin\Debug\MI_BL.pdb
+E:\New Folder\MachineInterfacing\MachineInterfacing\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.Form1.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmAttribute.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmCommInterface.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmInstruments.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmLogin.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmMachineTest.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmMain.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmSetting.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.frmSupplier.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.Properties.Resources.resources
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.exe
+E:\New Folder\MachineInterfacing\MachineInterfacing\obj\Debug\MachineInterfacing.pdb
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MachineInterfacing.exe.config
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MachineInterfacing.exe
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MachineInterfacing.pdb
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MI_BL.dll
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MI_BL.pdb
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.Form1.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmAttribute.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmCommInterface.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmInstruments.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmLogin.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmMachineTest.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmMain.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmSetting.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.frmSupplier.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.Properties.Resources.resources
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.exe
+E:\New Folder\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.pdb
+E:\Projects\Trees\RMI\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MachineInterfacing.exe.config
+E:\Projects\Trees\RMI\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.exe
+E:\Projects\Trees\RMI\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.pdb
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacingCellDyn\MachineInterfacing\bin\Debug\MachineInterfacing.exe.config
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.exe
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacingCellDyn\MachineInterfacing\obj\Debug\MachineInterfacing.pdb

@@ -1,0 +1,10 @@
+E:\New Folder\MachineInterfacing\MI_DataLayer\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing\MI_DataLayer\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacing\MI_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacing\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacingCellDyn\MI_DataLayer\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacingCellDyn\MI_DataLayer\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacingCellDyn\MI_DataLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacingCellDyn\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacingCellDyn\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
