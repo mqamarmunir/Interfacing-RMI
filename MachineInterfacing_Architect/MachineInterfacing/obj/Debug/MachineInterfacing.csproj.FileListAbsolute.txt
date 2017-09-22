@@ -111,3 +111,6 @@ D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MachineIn
 E:\Projects\Trees\RMI\Architect i1000sr\MachineInterfacing_Architect\MachineInterfacing\bin\Debug\MachineInterfacing.exe.config
 E:\Projects\Trees\RMI\Architect i1000sr\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.exe
 E:\Projects\Trees\RMI\Architect i1000sr\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.pdb
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\bin\Debug\MachineInterfacing.exe.config
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.exe
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.pdb
