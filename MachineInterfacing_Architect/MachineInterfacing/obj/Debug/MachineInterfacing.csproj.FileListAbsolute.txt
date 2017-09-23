@@ -114,3 +114,15 @@ E:\Projects\Trees\RMI\Architect i1000sr\MachineInterfacing_Architect\MachineInte
 E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\bin\Debug\MachineInterfacing.exe.config
 E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.exe
 E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.pdb
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.csprojResolveAssemblyReference.cache
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.Form1.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmAttribute.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmCommInterface.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmInstruments.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmLogin.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmMachineTest.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmMain.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmSetting.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.frmSupplier.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.Properties.Resources.resources
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MachineInterfacing\obj\Debug\MachineInterfacing.csproj.GenerateResource.Cache

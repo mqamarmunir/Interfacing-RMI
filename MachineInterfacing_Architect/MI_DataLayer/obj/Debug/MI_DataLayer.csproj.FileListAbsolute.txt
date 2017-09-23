@@ -23,3 +23,6 @@ D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLa
 D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.pdb
 D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.dll
 D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_DataLayer\bin\Debug\MI_DataLayer.pdb
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.csprojResolveAssemblyReference.cache
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.dll
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_DataLayer\obj\Debug\MI_DataLayer.pdb

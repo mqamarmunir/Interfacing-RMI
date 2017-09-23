@@ -1,0 +1,49 @@
+E:\New Folder\MachineInterfacing\MI_BL\bin\Debug\MI_BL.dll
+E:\New Folder\MachineInterfacing\MI_BL\bin\Debug\MI_BL.pdb
+E:\New Folder\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing\MI_BL\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacing\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacing\MI_BL\obj\Debug\MI_BL.dll
+E:\New Folder\MachineInterfacing\MI_BL\obj\Debug\MI_BL.pdb
+E:\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.dll
+E:\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.pdb
+E:\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.dll
+E:\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.pdb
+E:\New Folder\MachineInterfacing_Architect\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.dll
+E:\New Folder\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.pdb
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.dll
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.pdb
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.dll
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.pdb
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.dll
+D:\Qamar\RMI\Machine Interfacing\New Folder\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.pdb
+D:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.dll
+D:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.pdb
+D:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.dll
+D:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.pdb
+D:\MachineInterfacing_Architect\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.dll
+D:\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.pdb
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.dll
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.pdb
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.dll
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.pdb
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.dll
+D:\projects\MachineInterfacing_Architect1\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.pdb
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.dll
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.pdb
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.dll
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.pdb
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.csprojResolveAssemblyReference.cache
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.dll
+E:\Projects\Trees\RMI\Interfacing-RMI\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.pdb
+E:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.dll
+E:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_BL.pdb
+E:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.pdb
+E:\MachineInterfacing_Architect\MI_BL\obj\Debug\ResolveAssemblyReference.cache
+E:\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.dll
+E:\MachineInterfacing_Architect\MI_BL\obj\Debug\MI_BL.pdb
+E:\MachineInterfacing_Architect\MI_BL\bin\Debug\MI_DataLayer.dll

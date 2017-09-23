@@ -1,0 +1,7 @@
+bin\Debug\MI_BL.dll
+bin\Debug\MI_BL.pdb
+bin\Debug\MI_DataLayer.dll
+bin\Debug\MI_DataLayer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MI_BL.dll
+obj\Debug\MI_BL.pdb
